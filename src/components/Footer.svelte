@@ -1,5 +1,5 @@
 <footer
-	class="  border-t border-solid bg-black/15 border-violet-950 flex flex-col gap-4 sm:gap-8 justify-center items-center"
+	class="border-t border-solid relative bg-black/15 border-violet-950 flex flex-col gap-4 sm:gap-8 justify-center items-center z-20"
 >
 	<div class="container pt-9">
 		<div class="mb-6 flex justify-center space-x-2">

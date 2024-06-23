@@ -25,19 +25,4 @@
 			</div>
 		</div>
 	</section>
-	<!-- <section id="projects" class="py-28 lg:py-32 flex flex-col gap-24">
-		<div class="flex flex-col gap-2 text-center">
-			<h6 class="text-large sm:text-xl md:text-2xl">A few of my Recent projects</h6>
-			<h3 class="font-semibold text-3xl sm:text-4xl md:text-5xl">
-				Curious to <span class="poppins text-violet-400">see</span> my work?
-			</h3>
-			<a
-				href="/"
-				target="_blank"
-				class="ms-auto px-4 py-2 rounded-md border border-solid border-white flex items-center gap-2 -mb-4 sm:-mb-0 -mt-10 hover:border-violet-700 duration-200"
-			>
-				<i class="fa-regular fa-circle-play"></i>
-			</a>
-		</div>
-	</section> -->
 </main>
