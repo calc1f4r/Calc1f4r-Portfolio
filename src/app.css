@@ -5,6 +5,9 @@
 .poppins {
 	font-family: 'Poppins', sans-serif;
 }
+.playwrite {
+	font-family: 'Playwrite US Trad', cursive;
+}
 
 @layer base {
 	:root {

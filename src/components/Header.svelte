@@ -6,6 +6,8 @@
 		{ name: 'Projects', link: '/projects' },
 		{ name: 'Writings', link: '/blog' }
 	];
+	import { page } from '$app/stores';
+	$: currentPath = $page.url.pathname;
 </script>
 
 <header
@@ -17,7 +19,13 @@
 	</h1>
 	<div class="sm:flex items-center gap-4 hidden">
 		{#each tabs as tab, index}
-			<a href={tab.link} class="duration-200 hover:text-violet-400">
+			<a
+				href={tab.link}
+				class:active-link={currentPath === tab.link}
+				class="duration-200 font-medium hover:text-violet-400 {currentPath === tab.link
+					? 'text-violet-400'
+					: ''}"
+			>
 				<p>{tab.name}</p>
 			</a>
 		{/each}
