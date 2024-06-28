@@ -15,7 +15,7 @@
 		(y > 0 ? 'py-4 bg-slate-950 border-violet-950' : 'py-6 bg-transparent border-transparent')}
 >
 	<h1 class="font-medium">
-		<b class="poppins">Yash | calc1f4r</b>
+		<b class="poppins"><a href="/">Yash | calc1f4r</a></b>
 	</h1>
 	<div class="sm:flex items-center gap-4 hidden">
 		{#each tabs as tab, index}
