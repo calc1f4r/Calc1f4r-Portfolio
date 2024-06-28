@@ -1,39 +1,17 @@
-# create-svelte
+# Personal Website
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+Welcome to the repository for my personal website! This site showcases my portfolio, including my projects, skills, and professional journey. It's designed to give you a comprehensive look at my work and interests in the field of software development.
 
-## Creating a project
+## Features
 
-If you're seeing this, you've probably already done this step. Congrats!
+- **Projects**: A detailed showcase of my projects, including descriptions, technologies used, and links to live demos and source code.
+- **About Me**: A section dedicated to my professional background, education, and personal interests.
+- **Blogs**: Insights into my thoughts on software development, tutorials, and industry trends.
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+## Technologies Used
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
-# Calc1f4r-Portfolio
+- **HTML/CSS**: For structuring and styling the website.
+- **JavaScript**: To add interactivity and dynamic content.
+- **Svelte**: A modern framework for building reactive and efficient components.
+- **Tailwind CSS**: For utility-first CSS management.
+- **Vercel**: For hosting and continuous deployment.
