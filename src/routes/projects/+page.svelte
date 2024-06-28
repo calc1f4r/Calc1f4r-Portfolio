@@ -3,7 +3,7 @@
 	import ProjectCard2 from '../../components/ProjectCard2.svelte';
 </script>
 
-<section class="flex p-3 flex-col min-h-screen">
+<section class="flex p-5 flex-col min-h-screen">
 	<h2
 		class="font-semibold p-4 text-2xl sm:text-3xl md:text-4xl inline-block text-red-300 hover:text-red-200 transition-all duration-1000 ease-in-out cursor-pointer poppins border-b-2 border-transparent hover:border-red-400"
 	>
